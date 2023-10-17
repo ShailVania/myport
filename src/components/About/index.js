@@ -2,7 +2,7 @@ import "./index.scss"
 import AnimatedLetters from "../AnimatedLetters";
 import {useEffect, useState} from "react";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import {faCss3, faGithub, faHtml5, faJsSquare, faNodeJs, faPython, faReact} from "@fortawesome/free-brands-svg-icons";
+import {faGithub, faHtml5, faJsSquare, faNodeJs, faPython, faReact} from "@fortawesome/free-brands-svg-icons";
 
 const About = () => {
     const [letterClass,setLetterClass] = useState('text-animate')
