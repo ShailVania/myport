@@ -3,6 +3,7 @@ import AnimatedLetters from "../AnimatedLetters";
 import {useEffect, useState} from "react";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faGithub, faHtml5, faJsSquare, faNodeJs, faPython, faReact} from "@fortawesome/free-brands-svg-icons";
+import Loader from "react-loaders";
 
 const About = () => {
     const [letterClass,setLetterClass] = useState('text-animate')
@@ -14,12 +15,13 @@ const About = () => {
     }, []);
 
     return(
+        <>
         <div className="container about-page">
             <div className='text-zone'>
                 <h1>
                     <AnimatedLetters
                         letterClass={letterClass}
-                        strArray={['A','B','O','U','T', ' ', 'M', 'E']}
+                        strArray={['A','b','o','u','t', ' ', 'm', 'e']}
                         idx={15} />
                 </h1>
                 <p>A driven and skilled professional with a fervor for web and software development,
@@ -56,7 +58,8 @@ const About = () => {
                 </div>
             </div>
         </div>
-
+            <Loader type="pacman" active={true}/>
+</>
 
 
     )
