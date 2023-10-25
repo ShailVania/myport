@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.e46a12ea.css",
-    "main.js": "/static/js/main.6e09d263.js",
-    "static/js/787.ae61a12f.chunk.js": "/static/js/787.ae61a12f.chunk.js",
-    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/logo_sub.png": "/static/media/logo_sub.125bab24750bf236774f.png",
-    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/logo-s.png": "/static/media/logo-s.bfc9f81846bda5218dab.png",
-    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/index.html",
-    "main.e46a12ea.css.map": "/static/css/main.e46a12ea.css.map",
-    "main.6e09d263.js.map": "/static/js/main.6e09d263.js.map",
-    "787.ae61a12f.chunk.js.map": "/static/js/787.ae61a12f.chunk.js.map"
+    "main.css": "/myport/static/css/main.29fb801b.css",
+    "main.js": "/myport/static/js/main.f4e0fe7e.js",
+    "static/js/787.ae61a12f.chunk.js": "/myport/static/js/787.ae61a12f.chunk.js",
+    "static/media/helvetica-neu.ttf": "/myport/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub.png": "/myport/static/media/logo_sub.125bab24750bf236774f.png",
+    "static/media/LaBelleAurore.woff2": "/myport/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/myport/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/myport/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/myport/index.html",
+    "main.29fb801b.css.map": "/myport/static/css/main.29fb801b.css.map",
+    "main.f4e0fe7e.js.map": "/myport/static/js/main.f4e0fe7e.js.map",
+    "787.ae61a12f.chunk.js.map": "/myport/static/js/787.ae61a12f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e46a12ea.css",
-    "static/js/main.6e09d263.js"
+    "static/css/main.29fb801b.css",
+    "static/js/main.f4e0fe7e.js"
   ]
 }
