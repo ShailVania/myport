@@ -4,6 +4,7 @@ import AnimatedLetters from "../AnimatedLetters";
 import {useEffect, useRef, useState} from "react";
 import emailjs from '@emailjs/browser'
 import {serviceId, templateId, publicKey} from "../../keys";
+import {MapContainer, Marker, Popup, TileLayer} from "react-leaflet";
 
 
 const Contact = () => {
